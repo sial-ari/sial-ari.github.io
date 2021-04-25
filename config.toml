@@ -1,4 +1,4 @@
-baseURL = "http://blog.sial.ninja/"
+baseURL = "http://blog.sial.ninja/about/"
 languageCode = "en-us"
 title = "blog.sial.ninja"
 theme = "hello-friend"
@@ -45,7 +45,7 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "blog.sial.ninja >"
       logoHomeLink = "/"
     # or
     #
@@ -56,7 +56,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "about"
         name = "about"
-        url = "/about"
+        url = "/"
       [[languages.en.menu.main]]
         identifier = "posts"
         name = "posts"

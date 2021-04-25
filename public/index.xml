@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog.sial.ninja</title>
+    
+    
+    
+    <link>http://blog.sial.ninja/about/</link>
+    <description>Recent content on blog.sial.ninja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://blog.sial.ninja/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://blog.sial.ninja/about/about/</link>
+      <pubDate>Sun, 25 Apr 2021 23:31:02 +0300</pubDate>
+      
+      <guid>http://blog.sial.ninja/about/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          i&amp;rsquo;m vladimir todorov a sysops in his late twenties, from sofia, bulgaria, also known as sial.
+how to reach me:
+mail: sial at sial dot ninja
+gpg: 0x203D4DB071A1EE5F
+telegram: @sialari
+github: sial-ari
+keybase: sial
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
