@@ -5,12 +5,12 @@
     
     
     
-    <link>https://blog.sial.ninja/categories/</link>
+    <link>https://blog.sial.ninja/about/categories/</link>
     <description>Recent content in Categories on blog.sial.ninja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://blog.sial.ninja/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.sial.ninja/about/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
