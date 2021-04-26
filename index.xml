@@ -5,20 +5,20 @@
     
     
     
-    <link>https://blog.sial.ninja/about/</link>
+    <link>https://blog.sial.ninja/</link>
     <description>Recent content on blog.sial.ninja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://blog.sial.ninja/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.sial.ninja/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://blog.sial.ninja/about/about/</link>
+      <link>https://blog.sial.ninja/</link>
       <pubDate>Sun, 25 Apr 2021 23:31:02 +0300</pubDate>
       
-      <guid>https://blog.sial.ninja/about/about/</guid>
+      <guid>https://blog.sial.ninja/</guid>
       <description>
         
           
